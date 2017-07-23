@@ -1,4 +1,4 @@
-# Today I learned (Till I've learned / 7.17 ~ 7.21)
+# Today I learned (7.17 ~ 7.21)
 ## 1. HTML5
     1장 ~ 9장
 
